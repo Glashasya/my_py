@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="da367b9e-ed91-43ed-b02d-115514251ee9" name="Changes" comment="Проект после переимнования таблицы Advertisement в reclama" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="https_/github.com/Glashasya/palindrom.git" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2TiZnF51om80GPB4peDp8kKcWGk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "https__/github.com/Glashasya/My__project.git",
+    "last_opened_file_path": "C:/my_py"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da367b9e-ed91-43ed-b02d-115514251ee9" name="Changes" comment="" />
+      <created>1691528026543</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691528026543</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Проект после переимнования таблицы Advertisement в reclama">
+      <option name="closed" value="true" />
+      <created>1691549973229</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1691549973230</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Проект после переимнования таблицы Advertisement в reclama">
+      <option name="closed" value="true" />
+      <created>1691550452799</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691550452799</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Проект после переимнования таблицы Advertisement в reclama">
+      <option name="closed" value="true" />
+      <created>1691550831212</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1691550831212</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Проект после переимнования таблицы Advertisement в reclama">
+      <option name="closed" value="true" />
+      <created>1691551110200</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1691551110200</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Проект после переимнования таблицы Advertisement в reclama">
+      <option name="closed" value="true" />
+      <created>1691551147636</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1691551147636</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Проект после переимнования таблицы Advertisement в reclama" />
+    <option name="LAST_COMMIT_MESSAGE" value="Проект после переимнования таблицы Advertisement в reclama" />
+  </component>
+</project>
